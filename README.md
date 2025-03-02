@@ -2,7 +2,7 @@
 # Hospital Emergency Room Dashboard - Power BI Project
 
 ## 📌 Project Overview
-This Power BI dashboard provides insights into hospital emergency room data over a 19-month period. It analyzes patient wait times, satisfaction scores, admission status, demographics, and referral patterns to optimize hospital resources and improve patient care.
+This Power BI dashboard provides insights into hospital emergency room data over a month period. It analyzes patient wait times, satisfaction scores, admission status, demographics, and referral patterns to optimize hospital resources and improve patient care.
 
 ## 📊 Key Insights
 - **Total Patients:** 9,216
