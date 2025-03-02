@@ -41,12 +41,12 @@ This Power BI dashboard provides insights into hospital emergency room data over
    ```bash
     https://github.com/deepa115/hospital-powerbi.git
    ```
-2. **Open the Power BI file:** Load `Hospital ER Dashboard.pbix` in Power BI Desktop.
+2. **Open the Power BI file:** Load `Hospital Project.pbix` in Power BI Desktop.
 3. **Explore the dashboard:** Use filters and visuals to analyze hospital emergency room trends.
 
 ## 📌 Requirements
 - Power BI Desktop (latest version)
-- Access to the dataset (CSV, Excel, or database connection as applicable)
+- Access to the dataset (CSV)
 
 ## 📧 Contact
 For any queries, feel free to reach out:
